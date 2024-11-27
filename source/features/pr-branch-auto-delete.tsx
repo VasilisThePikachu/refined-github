@@ -20,6 +20,7 @@ const exceptions = [
 	'next',
 	'pre',
 	'prod',
+	'stable',
 	'stage',
 	'staging',
 	/production/,
